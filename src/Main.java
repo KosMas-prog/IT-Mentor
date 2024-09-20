@@ -13,7 +13,7 @@ public class Main {
 
         int a, b;
         String ansver = null;
-        String  plus = "+", minus = "-", divide = "/", multiply = "*";
+        //String  plus = "+", minus = "-", divide = "/", multiply = "*";
 
         String [] cleanTask = input.split(" ");
         a = Integer.parseInt(cleanTask[0]);
